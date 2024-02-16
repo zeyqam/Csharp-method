@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\bin\Debug\net6.0\Csharp-method.exe
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\bin\Debug\net6.0\Csharp-method.deps.json
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\bin\Debug\net6.0\Csharp-method.runtimeconfig.json
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\bin\Debug\net6.0\Csharp-method.dll
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\bin\Debug\net6.0\Csharp-method.pdb
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.AssemblyInfo.cs
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.dll
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\refint\Csharp-method.dll
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.pdb
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\Csharp-method.genruntimeconfig.cache
+C:\Users\HP\Desktop\Csharp-method\Csharp-method\obj\Debug\net6.0\ref\Csharp-method.dll
